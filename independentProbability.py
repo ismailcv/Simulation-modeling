@@ -1,5 +1,5 @@
-#2. soru bağımsız olasılık sorusu
-#İsmail Can Varlı    171420004
+# 2. ödev bağımsız olasılık sorusu
+# İsmail Can Varlı    
 
 # random modülünü import ediyoruz
 import random

@@ -1,5 +1,6 @@
-# monte karlo yöntemi ile verilen problemin çözümü 
-#İsmail Can VARLI   171420004 
+# 1. ödev monte carlo yöntemi kullanarak çözeceğiz.
+# İsmail Can VARLI   
+
 import random
 
 def monte_carlo_triangle_area(base: float, height: float, num_samples: int) -> float:
